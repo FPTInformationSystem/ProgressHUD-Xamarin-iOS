@@ -40,3 +40,4 @@ Thumbs.db
 *.dotCover
 MBProgressHUD/MBProgressHUD.xcodeproj/xcuserdata
 MBProgressHUD/MBProgressHUD.xcodeproj/project.xcworkspace/xcuserdata/phamquan.xcuserdatad/UserInterfaceState.xcuserstate
+MBProgressHUD/build
