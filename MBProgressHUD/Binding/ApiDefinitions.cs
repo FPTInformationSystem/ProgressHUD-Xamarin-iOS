@@ -5,7 +5,7 @@ using ObjCRuntime;
 using UIKit;
 
 [Static]
-[Verify (ConstantsInterfaceAssociation)]
+//[Verify (ConstantsInterfaceAssociation)]
 partial interface Constants
 {
 	// extern const CGFloat MBProgressMaxOffset;
