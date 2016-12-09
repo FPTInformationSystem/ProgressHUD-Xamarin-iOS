@@ -20,5 +20,7 @@ namespace FPT.Framework.iOS.UI
 		{
 			return MBProgressHUD.HUDForView(view);
 		}
+
+
 	}
 }
