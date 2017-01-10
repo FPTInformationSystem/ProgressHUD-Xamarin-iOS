@@ -1,6 +1,7 @@
 ﻿using System;
 
 using UIKit;
+using FPT.Framework.iOS.UI;
 
 namespace Demo
 {
@@ -15,6 +16,8 @@ namespace Demo
 		{
 			base.ViewDidLoad();
 			// Perform any additional setup after loading the view, typically from a nib.
+			ProgressHUD.ShowHUDAddedTo(this.View, true);
+
 		}
 
 		public override void DidReceiveMemoryWarning()
